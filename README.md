@@ -27,3 +27,4 @@ git clone https://github.com/Mayojet/Bronian-Motion-Simulation.git
 
 ## Credit
 1. https://github.com/mCodingLLC/VideosSampleCode/tree/master/videos/029_simulating_brownian_motion_in_python
+2. https://github.com/ipython-books/cookbook-2nd-code/blob/master/chapter13_stochastic/03_brownian.ipynb
