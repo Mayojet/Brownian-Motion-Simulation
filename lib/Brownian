@@ -1,3 +1,6 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
 
 class Brownian():
     # A Brownian motion class constructor
@@ -22,17 +25,9 @@ class Brownian():
             w[i] = w[i-1]+(yi/np.sqrt(n_step))
         
         return w
-    
+    #Generate motion by drawing from the Normal distribution
     def gen_normal(self,n_step=1000):
-        """
-        Generate motion by drawing from the Normal distribution
-        
-        Arguments:
-            n_step: Number of steps
-            
-        Returns:
-            A NumPy array with `n_steps` points
-        """
+    
         if n_step < 30:
             print("WARNING! The number of steps is small. It may not generate a good stochastic process sequence!")
         
