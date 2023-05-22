@@ -27,7 +27,16 @@ The project provides the following functions:
 git clone https://github.com/Mayojet/Bronian-Motion-Simulation.git
 ```
 2. Run the simulation code: 
+```bash
+n_steps = 100000  # Number of steps in the random walk
+
+brownian = Brownian()  # Initialize Brownian object with default board size
+random_walk = brownian.gen_random_walk(n_steps)  # Generate a random walk
+```
 3. View the generated plot:
+```bash
+brownian.draw_plot(random_walk)  # Draw the plot
+```
 
 
 ## Credits
