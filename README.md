@@ -31,7 +31,7 @@ git clone https://github.com/Mayojet/Bronian-Motion-Simulation.git
 
 
 ## Credits
-This project is inspired by the following resources:
+This project is inspired by Professor [Yuliy Baryshnikov](https://ymb.web.illinois.edu/) and the following resources:
 
 [CodingLLC - Simulating Brownian Motion in Python](https://github.com/mCodingLLC/VideosSampleCode/tree/master/videos/029_simulating_brownian_motion_in_python)
 
