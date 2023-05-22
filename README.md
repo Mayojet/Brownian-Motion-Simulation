@@ -34,7 +34,9 @@ git clone https://github.com/Mayojet/Bronian-Motion-Simulation.git
 This project is inspired by the following resources:
 
 [CodingLLC - Simulating Brownian Motion in Python][https://github.com/mCodingLLC/VideosSampleCode/tree/master/videos/029_simulating_brownian_motion_in_python]
+
 [IPython Cookbook - Brownian Motion Simulation][https://github.com/ipython-books/cookbook-2nd-code/blob/master/chapter13_stochastic/03_brownian.ipynb]
+
 Feel free to explore and modify the code to suit your needs. Happy simulating!
 
 
