@@ -46,7 +46,7 @@ This project is inspired by Professor [Yuliy Baryshnikov](https://ymb.web.illino
 
 [IPython Cookbook - Brownian Motion Simulation](https://github.com/ipython-books/cookbook-2nd-code/blob/master/chapter13_stochastic/03_brownian.ipynb)
 
-Feel free to explore and modify the code to suit your needs. Happy simulating!
+
 
 
 
